@@ -1,12 +1,12 @@
 <h1 align="center">Hey, I'm Gorka </h1>
 
 <p align="center">
-  <em>AI student @ UPV/EHU · Machine Learning · NLP · Optimization</em>
+  <em>AI Engineer @ UPV/EHU · Machine Learning · NLP · Optimization</em>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN">LinkedIn</a> ·
-  <a href="mailto:TU_EMAIL">Email</a> ·
+  <a href="https://www.linkedin.com/in/gorka-fernández-7b3771330">LinkedIn</a> ·
+  <a href="mailto:gorkafernandez47@gmail.com">Email</a> ·
   <a href="https://github.com/GorkaFS13">GitHub</a>
 </p>
 
@@ -14,17 +14,18 @@
 
 ## About me
 
-I'm a 3rd-year Artificial Intelligence student at the **University of the Basque Country (UPV/EHU)**. 
+I'm a 3rd-year Artificial Intelligence student at the **University of the Basque Country (UPV/EHU)**.
 
-I'm interested in building and analyzing intelligent systems from different perspectives, especially combining **machine learning, language models and optimization algorithms**.
+I’m interested in building and understanding intelligent systems, especially combining different areas of AI such as **deep learning, language models and optimization algorithms**.
 
 My main areas of interest are:
 
 - 🧠 **Machine Learning & Deep Learning** — model training, evaluation and comparison  
 - 💬 **Natural Language Processing** — transformers, fine-tuning vs prompting  
+- 👁️ **Computer Vision** — pose estimation and neural architectures  
 - ⚙️ **Optimization & Metaheuristics** — heuristic search, genetic algorithms  
 
-I'm currently looking for an **internship in AI** where I can apply these skills in real-world problems.
+I'm currently looking for an **internship in AI** where I can apply these skills in real-world problems and continue learning.
 
 ---
 
@@ -36,7 +37,7 @@ I'm currently looking for an **internship in AI** where I can apply these skills
 
 ---
 
-**ML / DL**
+**ML / DL Frameworks**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
@@ -63,34 +64,37 @@ I'm currently looking for an **internship in AI** where I can apply these skills
 
 ## Projects
 
-### [Human Pose Estimation (Deep Learning)](https://github.com/GorkaFS13/human-pose-estimation-deep-learning)
-Comparative study between CNN (ResNet) and Transformer (TokenPose) architectures for pose estimation.
+### [Human Pose Estimation — Deep Learning](https://github.com/GorkaFS13/human-pose-estimation-deep-learning)
+Built and compared different architectures for human pose estimation using the MPII dataset.
 
-- Achieved **82% vs 48% accuracy**
-- Full ML pipeline: preprocessing, training, evaluation
+- CNN (ResNet) vs Transformer (TokenPose)  
+- Achieved **82% vs 48% accuracy**  
+- Full pipeline: preprocessing, training, evaluation and visualization  
 - Analysis of spatial precision vs global context  
 
 `Computer Vision` `Deep Learning` `Transformers` `PyTorch`
 
 ---
 
-### [NLP Classification: Fine-tuning vs Prompting](https://github.com/GorkaFS13/nlp-classification-finetuning-vs-prompting)
-Comparison between supervised fine-tuning (DistilBERT) and prompting in LLMs (Qwen, LLaMA).
+### [NLP Classification — Fine-tuning vs Prompting](https://github.com/GorkaFS13/nlp-classification-finetuning-vs-prompting)
+Explored whether large language models can replace supervised training in classification tasks.
 
-- **~97% accuracy (fine-tuning)** vs **<30% (LLMs)**
-- Analysis of bias and limitations in prompting
+- DistilBERT (fine-tuning) vs LLMs (Qwen, LLaMA)  
+- **~97% accuracy vs <30% with prompting**  
+- Analysis of bias and limitations of generative models  
 - Data augmentation experiments  
 
 `NLP` `LLMs` `Transformers` `Prompt Engineering`
 
 ---
 
-### [Community Detection (Metaheuristics)](https://github.com/GorkaFS13/community-detection-metaheuristics)
-Optimization of graph partitioning using heuristic and metaheuristic algorithms.
+### [Community Detection — Metaheuristics](https://github.com/GorkaFS13/community-detection-metaheuristics)
+Solved a graph optimization problem using different heuristic and metaheuristic approaches.
 
-- Genetic Algorithm achieved **Q ≈ 0.89**
-- Implemented GRASP, Simulated Annealing and Random Search
-- Trade-off analysis: quality vs computational cost  
+- Implemented GRASP, Simulated Annealing and Genetic Algorithm  
+- Genetic Algorithm achieved **Q ≈ 0.89**  
+- Compared solution quality, time and stability  
+- Trade-off analysis: exploration vs exploitation  
 
 `Optimization` `Metaheuristics` `Genetic Algorithm` `Graph Theory`
 
@@ -98,15 +102,17 @@ Optimization of graph partitioning using heuristic and metaheuristic algorithms.
 
 ## Currently learning
 
-- Improving experimentation and model comparison
-- Advanced optimization techniques
-- Practical applications of LLMs
+- Improving experimentation and comparison of ML models  
+- Deeper understanding of optimization techniques  
+- Practical applications of LLMs  
 
 ---
 
 ## Let's connect
 
-I'm open to internship opportunities, collaborations or any interesting AI-related discussion.
+I'm always open to internship opportunities, collaborations or interesting conversations about AI.
+
+email: TU_EMAIL
 
 ---
 
