@@ -112,7 +112,7 @@ Solved a graph optimization problem using different heuristic and metaheuristic 
 
 I'm always open to internship opportunities, collaborations or interesting conversations about AI.
 
-email: TU_EMAIL
+email: gorkafernandez47@gmail.com
 
 ---
 
