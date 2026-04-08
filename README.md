@@ -117,4 +117,5 @@ email: gorkafernandez47@gmail.com
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=GorkaFS13&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=GorkaFS13&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" />
+</p>
