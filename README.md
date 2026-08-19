@@ -1,11 +1,11 @@
 <h1 align="center">Hey, I'm Gorka </h1>
 
 <p align="center">
-  <em>AI Engineer @ UPV/EHU · Machine Learning · NLP · Optimization</em>
+  <em>AI Student @ UPV/EHU · AI Agents · LLMs & MCP · Machine Learning</em>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gorka-fernández-7b3771330">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/gorkafernandez-ai">LinkedIn</a> ·
   <a href="mailto:gorkafernandez47@gmail.com">Email</a> ·
   <a href="https://github.com/GorkaFS13">GitHub</a>
 </p>
@@ -14,18 +14,19 @@
 
 ## About me
 
-I'm a 3rd-year Artificial Intelligence student at the **University of the Basque Country (UPV/EHU)**.
+I'm a 4th-year Artificial Intelligence student at the **University of the Basque Country (UPV/EHU)**.
 
-I’m interested in building and understanding intelligent systems, especially combining different areas of AI such as **deep learning, language models and optimization algorithms**.
+I recently completed a 3-month internship building **production AI agents**: multi-agent systems with LangGraph, a computer-use desktop companion in Rust/Tauri, MCP integrations and systematic LLM evaluation.
+
+I'm interested in building and understanding intelligent systems, especially combining different areas of AI such as **deep learning, language models and optimization algorithms**.
 
 My main areas of interest are:
 
-- 🧠 **Machine Learning & Deep Learning** — model training, evaluation and comparison  
-- 💬 **Natural Language Processing** — transformers, fine-tuning vs prompting  
-- 👁️ **Computer Vision** — pose estimation and neural architectures  
-- ⚙️ **Optimization & Metaheuristics** — heuristic search, genetic algorithms  
-
-I'm currently looking for an **internship in AI** where I can apply these skills in real-world problems and continue learning.
+- 🤖 **AI Agents** — multi-agent systems (LangGraph), MCP, computer use, tool design and evaluation
+- 🧠 **Machine Learning & Deep Learning** — model training, evaluation and comparison
+- 💬 **Natural Language Processing** — transformers, fine-tuning vs prompting
+- 👁️ **Computer Vision** — pose estimation and neural architectures
+- ⚙️ **Optimization & Metaheuristics** — heuristic search, genetic algorithms
 
 ---
 
@@ -34,6 +35,20 @@ I'm currently looking for an **internship in AI** where I can apply these skills
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+---
+
+**AI Agents & Backend**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat&logo=tauri&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
@@ -57,8 +72,24 @@ I'm currently looking for an **internship in AI** where I can apply these skills
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## Experience
+
+### AI Engineering Intern — Swap Energía (May–Aug 2026)
+Worked on a production SaaS platform of AI agents (private codebase), across the full agent stack: reasoning, tools, memory and evaluation.
+
+- Multi-agent systems with **LangGraph**: routing, delegation, human-in-the-loop teams, 140+ automated evaluation cases
+- **Computer-use desktop companion** (Rust/Tauri): agents control Windows/Linux apps via accessibility APIs (AT-SPI, UIA/COM)
+- **MCP integrations**, secure credentials in agent skills, natural language → workflow compiler
+- Neo4j knowledge graph as agent memory; LLM observability with Phoenix
+
+`AI Agents` `LangGraph` `MCP` `Rust` `Tauri` `FastAPI` `Vue.js`
 
 ---
 
@@ -102,15 +133,15 @@ Solved a graph optimization problem using different heuristic and metaheuristic 
 
 ## Currently learning
 
-- Improving experimentation and comparison of ML models  
-- Deeper understanding of optimization techniques  
-- Practical applications of LLMs  
+- Designing and evaluating agent systems in production
+- Rust for systems-level and desktop development
+- Deeper understanding of optimization techniques
 
 ---
 
 ## Let's connect
 
-I'm always open to internship opportunities, collaborations or interesting conversations about AI.
+I'm always open to collaborations, part-time roles and interesting conversations about AI.
 
 email: gorkafernandez47@gmail.com
 
