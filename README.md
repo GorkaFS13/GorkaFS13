@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gorkafernandez-ai">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/gorka-fernandez-ai">LinkedIn</a> ·
   <a href="mailto:gorkafernandez47@gmail.com">Email</a> ·
   <a href="https://github.com/GorkaFS13">GitHub</a>
 </p>
