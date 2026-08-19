@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gorka-fernandez-ai">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/gorkafernandez-ai">LinkedIn</a> ·
   <a href="mailto:gorkafernandez47@gmail.com">Email</a> ·
   <a href="https://github.com/GorkaFS13">GitHub</a>
 </p>
@@ -94,6 +94,17 @@ Worked on a production SaaS platform of AI agents (private codebase), across the
 ---
 
 ## Projects
+
+### [Agent Architectures — A Comparative Study](https://github.com/GorkaFS13/agent-architectures-comparison)
+Measured when agentic machinery actually pays off: the same 15-task battery solved three ways, on two models.
+
+- Direct prompting vs single tool-using agent vs multi-agent (LangGraph)
+- **Without tools both models fail only SHA-256 — with tools, the $1/MTok model matches the $5/MTok one (15/15)**
+- Native tool use, MCP server, automatic evaluation: accuracy, token cost and latency
+
+`AI Agents` `LangGraph` `MCP` `LLMs` `Evaluation`
+
+---
 
 ### [Human Pose Estimation — Deep Learning](https://github.com/GorkaFS13/human-pose-estimation-deep-learning)
 Built and compared different architectures for human pose estimation using the MPII dataset.
