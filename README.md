@@ -95,6 +95,18 @@ Worked on a production SaaS platform of AI agents (private codebase), across the
 
 ## Projects
 
+
+### [euskal-agent-bench](https://github.com/GorkaFS13/euskal-agent-bench) · [live leaderboard](https://gorkafs13.github.io/euskal-agent-bench/)
+Do LLM agents *work* in Basque? The same 30-task battery run in English, Spanish and Basque — measuring the agentic layer, not just knowledge.
+
+- **Basque keeps its reasoning (100%) but loses the agentic layer**: tool use drops to 25% without tools, and answers leak into other languages
+- New metric: *language leaks* — plus localized output contracts (ANSWER/RESPUESTA/ERANTZUNA) as a measured variable
+- Public leaderboard with failure gallery, n=3 runs with std, code-verified battery
+
+`AI Agents` `LLM Evaluation` `Basque` `Low-resource languages` `Tool use`
+
+---
+
 ### [Agent Architectures — A Comparative Study](https://github.com/GorkaFS13/agent-architectures-comparison)
 Measured when agentic machinery actually pays off: the same 15-task battery solved three ways, on two models.
 
