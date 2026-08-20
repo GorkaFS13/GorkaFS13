@@ -95,7 +95,6 @@ Worked on a production SaaS platform of AI agents (private codebase), across the
 
 ## Projects
 
-
 ### [euskal-agent-bench](https://github.com/GorkaFS13/euskal-agent-bench) · [live leaderboard](https://gorkafs13.github.io/euskal-agent-bench/)
 Do LLM agents *work* in Basque? The same 30-task battery run in English, Spanish and Basque — measuring the agentic layer, not just knowledge.
 
